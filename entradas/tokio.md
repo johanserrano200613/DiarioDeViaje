@@ -7,7 +7,7 @@ Es la vibrante capital de Japón y la metrópolis más poblada del mundo, caract
 Visitar el templo Senso-ji en Asakusa, cruza el icónico cruce de Shibuya, y explora la tecnología en Akihabara.
 
 ## Foto
-![alt text](image.png)
+![alt text](image4.png)
 
 ## Informacion sobre tokio
 Tokio, capital de Japón y el área metropolitana más poblada del mundo con más de 37 millones de habitantes, es un centro global que fusiona tecnología de vanguardia, rascacielos y neones con templos históricos y jardines tradicionales.
