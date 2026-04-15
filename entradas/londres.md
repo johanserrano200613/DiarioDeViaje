@@ -5,3 +5,6 @@ es una metrópolis global, cosmopolita y centro mundial de finanzas, cultura, ar
 
 ## Recomendación
 Imprescindible visitar el Big Ben
+
+## Foto
+![alt text](image.png)
