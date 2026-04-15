@@ -9,5 +9,5 @@ La mejor época para visitar es de noviembre a marzo. Es fundamental vestir con 
 ## Foto
 ![alt text](image.png)
 
-## Informacion sobre parís
+## Informacion sobre dubai
 Dubái es uno de los siete emiratos de los Emiratos Árabes Unidos (EAU), situado en el golfo Pérsico. Es una ciudad-estado famosa por su arquitectura ultramoderna (como el Burj Khalifa, el edificio más alto del mundo), lujo, compras, islas artificiales y un rápido crecimiento económico basado en el turismo y comercio
